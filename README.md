@@ -8,6 +8,8 @@ npm run dev
 
 # Create .env
 
+The database is on a cluster, and you can directly access it from the local environment. Everything is already set up in the env file.
+
 ```js
 NODE_ENV=development
 MONGO=cluster
