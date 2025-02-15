@@ -36,7 +36,6 @@
     "postinstall": "tsc",
     "watch-node": "nodemon dist/index.js",
     "watch-ts": "tsc -w",
-    "deploy": "git add . && git commit -m Heroku && git push heroku main",
     "test": "jest --runInBand"
   },
   "author": "Nikola Popov",
