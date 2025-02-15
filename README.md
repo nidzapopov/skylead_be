@@ -25,3 +25,9 @@ JWT_SECRET=skylead
 # Database & API routes
 
 The Postman collection is in the root folder (skylead.postman_collection.json).
+
+
+## TODO 
+
+create model for status
+BE test
