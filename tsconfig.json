@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "sourceMap": true,
+        "target": "esnext",
+        "module": "commonjs",
+        "outDir": "./dist",
+        "baseUrl": ".",
+        "experimentalDecorators": true,
+        "allowJs": true,
+        "moduleResolution": "node",
+        "rootDir":"./app"
+    },
+    "include": [
+        "app/**/*.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
