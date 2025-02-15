@@ -10,10 +10,7 @@
     "routes": [
         {
             "src": "/(.*)",
-            "dest": "dist/index.js"
+            "dest": "/api/v1"
         }
-    ],
-    "rewrites": [
-        { "source": "/(.*)", "destination": "/" }
     ]
 }
